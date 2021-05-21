@@ -16,5 +16,6 @@ public class PruebaMasterMind {
 		mm2.jugar();	
 		System.out.println("Cambio en local");
 		System.out.println("Cambio para subir");
+		System.out.println("Cambio para bajar");
 	}
 }
